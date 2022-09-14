@@ -8,4 +8,4 @@ bash start.sh
 
 #Replace [phone] with your Number Phone
 #ext 
-   python bot.py +62xxxx doge
+   python bot.py +996554520007 MBoruBKq5GPrsudzv2GdDdXvy3PPe6i881
